@@ -1,2 +1,1 @@
-# GitHub-demo
-this is my first git repository
+SNAKE GAME USING HTML CSS AND JS
